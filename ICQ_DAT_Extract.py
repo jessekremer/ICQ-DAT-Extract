@@ -8,8 +8,6 @@ MSG_HEADER_ALT =    b'\x61\x72\x69\x4D\x67\x73\x4D\x50\x03'
 
 output_filename = 'formatted_log.txt'
 
-me = b'@h\x95\x05IE3\x04\x01\x00'
-me_again = b'\xe6N\x11\x03@h\x95\x05\x01\x00'
 # msg start 6172694D2067734D03000000
 # skip 2 bytes
 # 10 bytes = user
